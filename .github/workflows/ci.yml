@@ -20,7 +20,7 @@ jobs:
         name: Authenticate to GCP
         with:
           project_id: 'jomamasproject' # update with your project ID
-          workload_identity_provider: 'https://iam.googleapis.com/projects/101176907631/locations/global/workloadIdentityPools/defp/providers/my-repo' # update with your Workload Identity Pool
+          workload_identity_provider: 'projects/101176907631/locations/global/workloadIdentityPools/defp/providers/my-repo' # update with your Workload Identity Pool
 
       # configure/login with docker
       - name: gcloud Configure Docker
