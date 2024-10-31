@@ -1,0 +1,2298 @@
+[
+  {
+    "insertId": "1lg3y5pdrr1w",
+    "jsonPayload": {
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "priority": "LOW",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "allocationRatio": 0.00024437927663734115,
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default"
+          }
+        ]
+      },
+      "status": "ACTIVE",
+      "location": "global",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "type": "INFO"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "project_id": "jomamasproject",
+        "location": "global"
+      }
+    },
+    "timestamp": "2024-10-17T21:26:22.471030044Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-17T21:26:23.930173012Z"
+  },
+  {
+    "insertId": "ildon9dh61v",
+    "jsonPayload": {
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "status": "ACTIVE",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "location": "global",
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default",
+            "allocationRatio": 0.00024437927663734115
+          }
+        ]
+      },
+      "priority": "LOW",
+      "type": "INFO"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "location": "global",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-18T21:26:22.327341452Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-18T21:26:23.088489418Z"
+  },
+  {
+    "insertId": "6otpbsdspab",
+    "jsonPayload": {
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "location": "global",
+      "type": "INFO",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "allocationRatio": 0.00024437927663734115,
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default"
+          }
+        ]
+      },
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "status": "ACTIVE",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "priority": "LOW"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "project_id": "jomamasproject",
+        "location": "global"
+      }
+    },
+    "timestamp": "2024-10-19T21:26:22.307168194Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-19T21:26:23.889044282Z"
+  },
+  {
+    "insertId": "za81n1e18nt5",
+    "jsonPayload": {
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "allocationRatio": 0.00024437927663734115,
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default"
+          }
+        ]
+      },
+      "location": "global",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "status": "ACTIVE",
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "type": "INFO",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "priority": "LOW"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "location": "global",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-20T21:26:22.325042430Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-20T21:26:22.938169293Z"
+  },
+  {
+    "insertId": "1rjjsqse1nfln",
+    "jsonPayload": {
+      "status": "ACTIVE",
+      "priority": "LOW",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default",
+            "allocationRatio": 0.00024437927663734115
+          }
+        ]
+      },
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "location": "global",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "type": "INFO",
+      "reportGroups": [
+        "VPC_NETWORK"
+      ]
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "project_id": "jomamasproject",
+        "location": "global"
+      }
+    },
+    "timestamp": "2024-10-21T21:26:22.338478617Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-21T21:26:24.053757054Z"
+  },
+  {
+    "insertId": "1rjjsqse21sl7",
+    "jsonPayload": {
+      "location": "global",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default",
+            "allocationRatio": 0.00024437927663734115
+          }
+        ]
+      },
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "priority": "LOW",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "type": "INFO",
+      "status": "ACTIVE"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "location": "global",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-22T21:26:22.312468184Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-22T21:26:23.952764055Z"
+  },
+  {
+    "insertId": "x2lv5jd3f0g",
+    "jsonPayload": {
+      "location": "global",
+      "type": "INFO",
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "status": "ACTIVE",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default",
+            "allocationRatio": 0.00024437927663734115
+          }
+        ]
+      },
+      "priority": "LOW"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "project_id": "jomamasproject",
+        "location": "global"
+      }
+    },
+    "timestamp": "2024-10-23T21:26:22.381180989Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-23T21:26:24.543947159Z"
+  },
+  {
+    "insertId": "1y877d9d2zfi",
+    "jsonPayload": {
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default",
+            "allocationRatio": 0.00024437927663734115
+          }
+        ]
+      },
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "type": "INFO",
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "location": "global",
+      "status": "ACTIVE",
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "priority": "LOW",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "location": "global",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-24T21:26:22.227312066Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-24T21:26:23.202900002Z"
+  },
+  {
+    "insertId": "4rfxhfe233iz",
+    "jsonPayload": {
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "type": "INFO",
+      "status": "ACTIVE",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default",
+            "allocationRatio": 0.00024437927663734115
+          }
+        ]
+      },
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "location": "global",
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "priority": "LOW"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "project_id": "jomamasproject",
+        "location": "global"
+      }
+    },
+    "timestamp": "2024-10-25T21:26:22.315043021Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-25T21:26:22.910536077Z"
+  },
+  {
+    "insertId": "1pd5kjre1h2wx",
+    "jsonPayload": {
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "status": "ACTIVE",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default",
+            "allocationRatio": 0.00024437927663734115
+          }
+        ]
+      },
+      "type": "INFO",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "priority": "LOW",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "location": "global"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "location": "global",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-26T21:26:22.512169671Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-26T21:26:24.155088104Z"
+  },
+  {
+    "insertId": "x2lv5je1wqt8",
+    "jsonPayload": {
+      "location": "global",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "allocationRatio": 0.00024437927663734115,
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default"
+          }
+        ]
+      },
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "status": "ACTIVE",
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "type": "INFO",
+      "priority": "LOW",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "project_id": "jomamasproject",
+        "location": "global"
+      }
+    },
+    "timestamp": "2024-10-27T21:26:22.420605635Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-27T21:26:23.228899516Z"
+  },
+  {
+    "insertId": "mrcza0c9qa",
+    "jsonPayload": {
+      "type": "INFO",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "allocationRatio": 0.00024437927663734115,
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default"
+          }
+        ]
+      },
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "priority": "LOW",
+      "status": "ACTIVE",
+      "location": "global",
+      "id": "jomamasproject/ip_utilization/11133154273796352190"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "location": "global",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-28T21:26:22.258181674Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-28T21:26:22.915370468Z"
+  },
+  {
+    "insertId": "4rfxhfe3yo7u",
+    "jsonPayload": {
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "location": "global",
+      "priority": "LOW",
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "allocationRatio": 0.00024437927663734115,
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default"
+          }
+        ]
+      },
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "type": "INFO",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "status": "ACTIVE",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "project_id": "jomamasproject",
+        "location": "global"
+      }
+    },
+    "timestamp": "2024-10-29T21:26:22.292269950Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-29T21:26:23.984651572Z"
+  },
+  {
+    "insertId": "1xp76y9db9z8",
+    "jsonPayload": {
+      "type": "INFO",
+      "reportGroups": [
+        "VPC_NETWORK"
+      ],
+      "priority": "LOW",
+      "ipUtilizationInfo": {
+        "subnetIpUtilization": [
+          {
+            "allocationRatio": 0.00024437927663734115,
+            "subnetUri": "//compute.googleapis.com/projects/jomamasproject/regions/northamerica-northeast2/subnetworks/default"
+          }
+        ]
+      },
+      "location": "global",
+      "resourceName": "//compute.googleapis.com/projects/jomamasproject",
+      "@type": "type.googleapis.com/google.cloud.networkanalyzer.logging.v1.Report",
+      "id": "jomamasproject/ip_utilization/11133154273796352190",
+      "causeCode": "IP_UTILIZATION_IP_ALLOCATION_SUMMARY",
+      "status": "ACTIVE",
+      "firstReportTime": "2024-09-14T21:26:22.204593225Z"
+    },
+    "resource": {
+      "type": "networking.googleapis.com/Location",
+      "labels": {
+        "project_id": "jomamasproject",
+        "location": "global"
+      }
+    },
+    "timestamp": "2024-10-30T21:26:22.398873467Z",
+    "logName": "projects/jomamasproject/logs/networkanalyzer.googleapis.com%2Fanalyzer_reports",
+    "receiveTimestamp": "2024-10-30T21:26:23.012134999Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {
+        "code": 3,
+        "message": "Invalid WorkloadIdentityPool ID. It can only consist of digits [0-9], lowercase characters [a-z], dashes [-], and must be between 4 and 32 characters in length."
+      },
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.iam.workload-identity-pools.create invocation-id/7677f94ea8d2481e8c23159708d0d415 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T21:58:51.017011966Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "iam.googleapis.com",
+      "methodName": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPool",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/global",
+          "permission": "iam.workloadIdentityPools.create",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/global",
+      "request": {
+        "@type": "type.googleapis.com/google.iam.v1.CreateWorkloadIdentityPoolRequest",
+        "workloadIdentityPoolId": "DEFPOOL",
+        "workloadIdentityPool": {
+          "displayName": "DEFPOOL",
+          "disabled": false
+        },
+        "parent": "projects/jomamasproject/locations/global"
+      },
+      "resourceLocation": {
+        "currentLocations": [
+          "global"
+        ]
+      }
+    },
+    "insertId": "s1nzdlcb2e",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "method": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPool",
+        "service": "iam.googleapis.com",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T21:58:51.006622326Z",
+    "severity": "ERROR",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T21:58:51.893676428Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.iam.workload-identity-pools.create invocation-id/4061bfa0101c41bdbfb69ba3a433c575 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T21:59:19.540519139Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "iam.googleapis.com",
+      "methodName": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPool",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/global",
+          "permission": "iam.workloadIdentityPools.create",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/global",
+      "request": {
+        "parent": "projects/jomamasproject/locations/global",
+        "workloadIdentityPool": {
+          "displayName": "defp",
+          "disabled": false
+        },
+        "workloadIdentityPoolId": "defp",
+        "@type": "type.googleapis.com/google.iam.v1.CreateWorkloadIdentityPoolRequest"
+      },
+      "resourceLocation": {
+        "currentLocations": [
+          "global"
+        ]
+      }
+    },
+    "insertId": "s1nzdlcb6x",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "method": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPool",
+        "service": "iam.googleapis.com",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T21:59:19.539905539Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "operation": {
+      "id": "projects/101176907631/locations/global/workloadIdentityPools/defp/operations/bifqrogyrk4qmegqtt5rw00000000000",
+      "producer": "iam.googleapis.com",
+      "first": true
+    },
+    "receiveTimestamp": "2024-10-30T21:59:20.902797004Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "iam.googleapis.com",
+      "methodName": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPool",
+      "resourceName": "projects/jomamasproject/locations/global",
+      "response": {
+        "@type": "type.googleapis.com/google.longrunning.Operation",
+        "name": "projects/101176907631/locations/global/workloadIdentityPools/defp/operations/bifqrogyrk4qmegqtt5rw00000000000"
+      }
+    },
+    "insertId": "auztircgr1",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "method": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPool",
+        "service": "iam.googleapis.com",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T21:59:20.059202Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "operation": {
+      "id": "projects/101176907631/locations/global/workloadIdentityPools/defp/operations/bifqrogyrk4qmegqtt5rw00000000000",
+      "producer": "iam.googleapis.com",
+      "last": true
+    },
+    "receiveTimestamp": "2024-10-30T21:59:20.760523894Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.create invocation-id/f0f4fde4172a4159ad3ad6f605799a83 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe)",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "serviceusage.googleapis.com",
+      "methodName": "google.api.serviceusage.v1.ServiceUsage.EnableService",
+      "authorizationInfo": [
+        {
+          "resource": "projectnumbers/101176907631/services/artifactregistry.googleapis.com",
+          "permission": "serviceusage.services.enable",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        },
+        {
+          "resource": "services/artifactregistry.googleapis.com",
+          "permission": "servicemanagement.services.bind",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "DATA_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/services/artifactregistry.googleapis.com",
+      "request": {
+        "name": "projects/jomamasproject/services/artifactregistry.googleapis.com",
+        "@type": "type.googleapis.com/google.api.serviceusage.v1.EnableServiceRequest"
+      }
+    },
+    "insertId": "behodxd65un",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "serviceusage.googleapis.com",
+        "project_id": "jomamasproject",
+        "method": "google.api.serviceusage.v1.ServiceUsage.EnableService"
+      }
+    },
+    "timestamp": "2024-10-30T22:09:48.109111Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "operation": {
+      "id": "operations/acat.p2-101176907631-964f021a-104a-43dc-9e82-53213de3aa35",
+      "producer": "serviceusage.googleapis.com",
+      "first": true
+    },
+    "receiveTimestamp": "2024-10-30T22:09:49.484121383Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {},
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.create invocation-id/f0f4fde4172a4159ad3ad6f605799a83 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe)",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "serviceusage.googleapis.com",
+      "methodName": "google.longrunning.Operations.GetOperation",
+      "authorizationInfo": [
+        {
+          "resource": "projectnumbers/101176907631",
+          "permission": "serviceusage.services.enable",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        },
+        {
+          "resource": "projectnumbers/101176907631/operations/-",
+          "permission": "serviceusage.operations.get",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "DATA_READ"
+        },
+        {
+          "resource": "projectnumbers/101176907631",
+          "permission": "serviceusage.services.get",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "DATA_READ"
+        }
+      ],
+      "resourceName": "projects/101176907631/operations/acat.p2-101176907631-964f021a-104a-43dc-9e82-53213de3aa35"
+    },
+    "insertId": "l3xej3d1a7c",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "project_id": "jomamasproject",
+        "service": "serviceusage.googleapis.com",
+        "method": "google.longrunning.Operations.GetOperation"
+      }
+    },
+    "timestamp": "2024-10-30T22:09:48.697327Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T22:09:49.033508951Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {},
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.create invocation-id/f0f4fde4172a4159ad3ad6f605799a83 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe)",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "serviceusage.googleapis.com",
+      "methodName": "google.api.serviceusage.v1.ServiceUsage.EnableService",
+      "authorizationInfo": [
+        {
+          "resource": "projectnumbers/101176907631/services/artifactregistry.googleapis.com",
+          "permission": "serviceusage.services.enable",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        },
+        {
+          "resource": "services/artifactregistry.googleapis.com",
+          "permission": "servicemanagement.services.bind",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "DATA_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/services/artifactregistry.googleapis.com",
+      "request": {
+        "name": "projects/jomamasproject/services/artifactregistry.googleapis.com",
+        "@type": "type.googleapis.com/google.api.serviceusage.v1.EnableServiceRequest"
+      },
+      "response": {
+        "service": {
+          "parent": "projects/101176907631",
+          "state": "ENABLED",
+          "config": {
+            "name": "artifactregistry.googleapis.com",
+            "title": "Artifact Registry API"
+          },
+          "name": "projects/101176907631/services/artifactregistry.googleapis.com"
+        },
+        "@type": "type.googleapis.com/google.api.serviceusage.v1.EnableServiceResponse"
+      }
+    },
+    "insertId": "-13f3rbd92xu",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "serviceusage.googleapis.com",
+        "project_id": "jomamasproject",
+        "method": "google.api.serviceusage.v1.ServiceUsage.EnableService"
+      }
+    },
+    "timestamp": "2024-10-30T22:09:50.315707366Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "operation": {
+      "id": "operations/acat.p2-101176907631-964f021a-104a-43dc-9e82-53213de3aa35",
+      "producer": "serviceusage.googleapis.com",
+      "last": true
+    },
+    "receiveTimestamp": "2024-10-30T22:09:50.315707366Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {},
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.create invocation-id/f0f4fde4172a4159ad3ad6f605799a83 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe)",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "serviceusage.googleapis.com",
+      "methodName": "google.longrunning.Operations.GetOperation",
+      "authorizationInfo": [
+        {
+          "resource": "projectnumbers/101176907631",
+          "permission": "serviceusage.services.enable",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        },
+        {
+          "resource": "projectnumbers/101176907631/operations/-",
+          "permission": "serviceusage.operations.get",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "DATA_READ"
+        },
+        {
+          "resource": "projectnumbers/101176907631",
+          "permission": "serviceusage.services.get",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "DATA_READ"
+        }
+      ],
+      "resourceName": "projects/101176907631/operations/acat.p2-101176907631-964f021a-104a-43dc-9e82-53213de3aa35"
+    },
+    "insertId": "1pmcuy5d1lfd",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "project_id": "jomamasproject",
+        "method": "google.longrunning.Operations.GetOperation",
+        "service": "serviceusage.googleapis.com"
+      }
+    },
+    "timestamp": "2024-10-30T22:09:51.227604Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T22:09:51.520115027Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.create invocation-id/f0f4fde4172a4159ad3ad6f605799a83 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T22:09:53.513319215Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.CreateRepository",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/us",
+          "permission": "artifactregistry.repositories.create",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/us",
+      "request": {
+        "repositoryId": "jomamasrepo",
+        "repository": {
+          "name": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+          "format": "DOCKER"
+        },
+        "@type": "type.googleapis.com/google.devtools.artifactregistry.v1.CreateRepositoryRequest",
+        "parent": "projects/jomamasproject/locations/us"
+      },
+      "resourceLocation": {
+        "currentLocations": [
+          "us"
+        ]
+      }
+    },
+    "insertId": "10nvgetd1zwj",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "artifactregistry.googleapis.com",
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.CreateRepository",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T22:09:53.503273085Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "operation": {
+      "id": "projects/jomamasproject/locations/us/operations/7837c243-9ef1-4d7f-a183-6e878c87e59f",
+      "producer": "artifactregistry.googleapis.com",
+      "first": true
+    },
+    "receiveTimestamp": "2024-10-30T22:09:53.911638502Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {},
+      "authenticationInfo": {
+        "principalEmail": "service-agent-manager@system.gserviceaccount.com"
+      },
+      "requestMetadata": {
+        "callerIp": "private",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "cloudresourcemanager.googleapis.com",
+      "methodName": "SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject",
+          "permission": "resourcemanager.projects.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {
+            "service": "cloudresourcemanager.googleapis.com",
+            "name": "projects/jomamasproject",
+            "type": "cloudresourcemanager.googleapis.com/Project"
+          },
+          "permissionType": "ADMIN_WRITE"
+        },
+        {
+          "resource": "projects/jomamasproject",
+          "permission": "resourcemanager.projects.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {
+            "service": "cloudresourcemanager.googleapis.com",
+            "name": "projects/jomamasproject",
+            "type": "cloudresourcemanager.googleapis.com/Project"
+          },
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject",
+      "serviceData": {
+        "@type": "type.googleapis.com/google.iam.v1.logging.AuditData",
+        "policyDelta": {
+          "bindingDeltas": [
+            {
+              "action": "ADD",
+              "role": "roles/artifactregistry.serviceAgent",
+              "member": "serviceAccount:service-101176907631@gcp-sa-artifactregistry.iam.gserviceaccount.com"
+            }
+          ]
+        }
+      },
+      "request": {
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest",
+        "resource": "101176907631",
+        "policy": {
+          "bindings": [
+            {
+              "members": [
+                "serviceAccount:service-101176907631@compute-system.iam.gserviceaccount.com"
+              ],
+              "role": "roles/compute.serviceAgent"
+            },
+            {
+              "members": [
+                "serviceAccount:101176907631-compute@developer.gserviceaccount.com",
+                "serviceAccount:101176907631@cloudservices.gserviceaccount.com"
+              ],
+              "role": "roles/editor"
+            },
+            {
+              "members": [
+                "user:Leowonderfulrocks@gmail.com"
+              ],
+              "role": "roles/owner"
+            },
+            {
+              "members": [
+                "serviceAccountId:114720442609450053521"
+              ],
+              "role": "roles/artifactregistry.serviceAgent"
+            }
+          ],
+          "etag": "BwYh4IyBkqY="
+        }
+      },
+      "response": {
+        "@type": "type.googleapis.com/google.iam.v1.Policy",
+        "bindings": [
+          {
+            "members": [
+              "serviceAccount:service-101176907631@gcp-sa-artifactregistry.iam.gserviceaccount.com"
+            ],
+            "role": "roles/artifactregistry.serviceAgent"
+          },
+          {
+            "members": [
+              "serviceAccount:service-101176907631@compute-system.iam.gserviceaccount.com"
+            ],
+            "role": "roles/compute.serviceAgent"
+          },
+          {
+            "members": [
+              "serviceAccount:101176907631-compute@developer.gserviceaccount.com",
+              "serviceAccount:101176907631@cloudservices.gserviceaccount.com"
+            ],
+            "role": "roles/editor"
+          },
+          {
+            "members": [
+              "user:Leowonderfulrocks@gmail.com"
+            ],
+            "role": "roles/owner"
+          }
+        ],
+        "etag": "BwYluPYvHYk="
+      }
+    },
+    "insertId": "-b255zad78t4",
+    "resource": {
+      "type": "project",
+      "labels": {
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T22:09:54.441547Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T22:09:55.080524655Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {},
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.CreateRepository",
+      "resourceName": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+      "response": {
+        "@type": "type.googleapis.com/google.protobuf.Any",
+        "sbomConfig": {},
+        "name": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+        "vulnerabilityScanningConfig": {
+          "lastEnableTime": "2024-10-30T22:09:53.524363611Z"
+        },
+        "mode": "STANDARD_REPOSITORY",
+        "format": "DOCKER"
+      }
+    },
+    "insertId": "116jel5d31x4",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.CreateRepository",
+        "project_id": "jomamasproject",
+        "service": "artifactregistry.googleapis.com"
+      }
+    },
+    "timestamp": "2024-10-30T22:10:03.024446219Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "operation": {
+      "id": "projects/jomamasproject/locations/us/operations/7837c243-9ef1-4d7f-a183-6e878c87e59f",
+      "producer": "artifactregistry.googleapis.com",
+      "last": true
+    },
+    "receiveTimestamp": "2024-10-30T22:10:03.177147397Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "96.236.195.186",
+        "callerSuppliedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36,gzip(gfe),gzip(gfe)",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "cloudresourcemanager.googleapis.com",
+      "methodName": "GetContactInfo",
+      "authorizationInfo": [
+        {
+          "resourceAttributes": {}
+        }
+      ],
+      "resourceName": "projects/jomamasproject",
+      "request": {
+        "name": "projects/jomamasproject",
+        "@type": "type.googleapis.com/google.internal.cloud.resourcemanager.GetContactInfoRequest"
+      }
+    },
+    "insertId": "-4ojzu6dqfry",
+    "resource": {
+      "type": "project",
+      "labels": {
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T22:18:55.614682Z",
+    "severity": "INFO",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Fdata_access",
+    "receiveTimestamp": "2024-10-30T22:18:56.230943883Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {
+        "code": 5,
+        "message": "Requested entity was not found."
+      },
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.iam.workload-identity-pools.providers.create-oidc invocation-id/3c1d0f8b32c3431ba1c30c1547cf03a4 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T22:36:03.960818685Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "iam.googleapis.com",
+      "methodName": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPoolProvider",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/global/workloadIdentityPools/github",
+          "permission": "iam.workloadIdentityPoolProviders.create",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/global/workloadIdentityPools/github",
+      "request": {
+        "workloadIdentityPoolProviderId": "my-repo",
+        "@type": "type.googleapis.com/google.iam.v1.CreateWorkloadIdentityPoolProviderRequest",
+        "parent": "projects/jomamasproject/locations/global/workloadIdentityPools/github",
+        "workloadIdentityPoolProvider": {
+          "attributeCondition": "assertion.repository_owner == 'pitt-cs-1660'",
+          "disabled": false,
+          "oidc": {
+            "issuerUri": "https://token.actions.githubusercontent.com"
+          },
+          "attributeMapping": {
+            "google.subject": "assertion.sub",
+            "attribute.repository_owner": "assertion.repository_owner",
+            "attribute.actor": "assertion.actor",
+            "attribute.repository": "assertion.repository"
+          },
+          "displayName": "My GitHub repo Provider"
+        }
+      },
+      "resourceLocation": {
+        "currentLocations": [
+          "global"
+        ]
+      }
+    },
+    "insertId": "s1nzdlced3",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "method": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPoolProvider",
+        "service": "iam.googleapis.com",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T22:36:03.943231115Z",
+    "severity": "ERROR",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T22:36:04.390585290Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.iam.workload-identity-pools.providers.create-oidc invocation-id/54fd6aa60356492bac2e41d5efcca09f environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T22:36:55.063206903Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "iam.googleapis.com",
+      "methodName": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPoolProvider",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/global/workloadIdentityPools/defp",
+          "permission": "iam.workloadIdentityPoolProviders.create",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/global/workloadIdentityPools/defp",
+      "request": {
+        "@type": "type.googleapis.com/google.iam.v1.CreateWorkloadIdentityPoolProviderRequest",
+        "parent": "projects/jomamasproject/locations/global/workloadIdentityPools/defp",
+        "workloadIdentityPoolProvider": {
+          "disabled": false,
+          "oidc": {
+            "issuerUri": "https://token.actions.githubusercontent.com"
+          },
+          "attributeMapping": {
+            "attribute.repository_owner": "assertion.repository_owner",
+            "attribute.actor": "assertion.actor",
+            "attribute.repository": "assertion.repository",
+            "google.subject": "assertion.sub"
+          },
+          "attributeCondition": "assertion.repository_owner == 'pitt-cs-1660'",
+          "displayName": "My GitHub repo Provider"
+        },
+        "workloadIdentityPoolProviderId": "my-repo"
+      },
+      "resourceLocation": {
+        "currentLocations": [
+          "global"
+        ]
+      }
+    },
+    "insertId": "6xs7wvccx0",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "iam.googleapis.com",
+        "method": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPoolProvider",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T22:36:55.048159996Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "operation": {
+      "id": "projects/101176907631/locations/global/workloadIdentityPools/defp/providers/my-repo/operations/bigarb7krk4qmeeyrclogai000000000",
+      "producer": "iam.googleapis.com",
+      "first": true
+    },
+    "receiveTimestamp": "2024-10-30T22:36:56.232431165Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "iam.googleapis.com",
+      "methodName": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPoolProvider",
+      "resourceName": "projects/jomamasproject/locations/global/workloadIdentityPools/defp",
+      "response": {
+        "@type": "type.googleapis.com/google.longrunning.Operation",
+        "name": "projects/101176907631/locations/global/workloadIdentityPools/defp/providers/my-repo/operations/bigarb7krk4qmeeyrclogai000000000"
+      }
+    },
+    "insertId": "-3vr648c5p3",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "iam.googleapis.com",
+        "method": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPoolProvider",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T22:36:55.477227Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "operation": {
+      "id": "projects/101176907631/locations/global/workloadIdentityPools/defp/providers/my-repo/operations/bigarb7krk4qmeeyrclogai000000000",
+      "producer": "iam.googleapis.com",
+      "last": true
+    },
+    "receiveTimestamp": "2024-10-30T22:36:55.954612287Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {
+        "code": 3,
+        "message": "Invalid attribute condition. [ERROR 'ERROR: <expression>:1:31: token recognition error at: ''pitt-cs-1660'\n | assertion.repository_owner == 'pitt-cs-1660\n | ..............................^' at 30, ERROR 'ERROR: <expression>:1:44: mismatched input '<EOF>' expecting {'[', '{', '(', '.', '-', '!', 'true', 'false', 'null', NUM_FLOAT, NUM_INT, NUM_UINT, STRING, BYTES, IDENTIFIER}\n | assertion.repository_owner == 'pitt-cs-1660\n | ...........................................^' at 43]"
+      },
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.iam.workload-identity-pools.providers.create-oidc invocation-id/3f66686d781d47c1b256f2df0363d325 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T22:37:04.668309397Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "iam.googleapis.com",
+      "methodName": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPoolProvider",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/global/workloadIdentityPools/defp",
+          "permission": "iam.workloadIdentityPoolProviders.create",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/global/workloadIdentityPools/defp",
+      "request": {
+        "@type": "type.googleapis.com/google.iam.v1.CreateWorkloadIdentityPoolProviderRequest",
+        "parent": "projects/jomamasproject/locations/global/workloadIdentityPools/defp",
+        "workloadIdentityPoolProvider": {
+          "attributeCondition": "assertion.repository_owner == 'pitt-cs-1660",
+          "displayName": "My GitHub repo Provider",
+          "disabled": false,
+          "oidc": {
+            "issuerUri": "https://token.actions.githubusercontent.com"
+          },
+          "attributeMapping": {
+            "attribute.repository_owner": "assertion.repository_owner",
+            "attribute.actor": "assertion.actor",
+            "attribute.repository": "assertion.repository",
+            "google.subject": "assertion.sub"
+          }
+        },
+        "workloadIdentityPoolProviderId": "my-repo"
+      },
+      "resourceLocation": {
+        "currentLocations": [
+          "global"
+        ]
+      }
+    },
+    "insertId": "s1nzdlcei3",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "iam.googleapis.com",
+        "project_id": "jomamasproject",
+        "method": "google.iam.v1.WorkloadIdentityPools.CreateWorkloadIdentityPoolProvider"
+      }
+    },
+    "timestamp": "2024-10-30T22:37:04.653260676Z",
+    "severity": "ERROR",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T22:37:05.403051423Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {
+        "code": 3,
+        "message": "Invalid principalSet member (principalSet://iam.googleapis.com/projects/101176907631/locations/global/workloadIdentityPools/defp/providers/my-repo)."
+      },
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.add-iam-policy-binding invocation-id/a60f9155e1ed454bb7c98765ab8af300 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T23:04:07.056158608Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+          "permission": "artifactregistry.repositories.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+      "request": {
+        "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest"
+      }
+    },
+    "insertId": "1lrn7mfd22m2",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "artifactregistry.googleapis.com",
+        "project_id": "jomamasproject",
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy"
+      }
+    },
+    "timestamp": "2024-10-30T23:04:07.048746885Z",
+    "severity": "ERROR",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T23:04:07.780764040Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.add-iam-policy-binding invocation-id/450c84d9d59c44f7a40575cc6dcc9bb8 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T23:04:50.852707558Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+          "permission": "artifactregistry.repositories.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+      "request": {
+        "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest"
+      },
+      "response": {
+        "@type": "type.googleapis.com/google.iam.v1.Policy"
+      }
+    },
+    "insertId": "r997upd209s",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "artifactregistry.googleapis.com",
+        "project_id": "jomamasproject",
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy"
+      }
+    },
+    "timestamp": "2024-10-30T23:04:50.845749828Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T23:04:51.408861773Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {
+        "code": 3,
+        "message": "The member principalSet://iam.googleapis.com/projects/101176907631/locations/global/workloadIdentityPools/defp is of an unknown type. Please set a valid type prefix for the member."
+      },
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.add-iam-policy-binding invocation-id/2c80b8a184424188b9a39be38637b0e0 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T23:11:23.669290706Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+          "permission": "artifactregistry.repositories.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+      "request": {
+        "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest"
+      }
+    },
+    "insertId": "dlmduzd2135",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "artifactregistry.googleapis.com",
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T23:11:23.660037774Z",
+    "severity": "ERROR",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T23:11:24.671640646Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {
+        "code": 3,
+        "message": "The attribute condition must reference one of the provider's claims. For more information, see https://cloud.google.com/iam/docs/workload-identity-federation-with-deployment-pipelines#conditions"
+      },
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "96.236.195.186",
+        "callerSuppliedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36,gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T23:13:23.696210926Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "iam.googleapis.com",
+      "methodName": "google.iam.v1.WorkloadIdentityPools.UpdateWorkloadIdentityPoolProvider",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/global/workloadIdentityPools/defp/providers/my-repo",
+          "permission": "iam.workloadIdentityPoolProviders.update",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/global/workloadIdentityPools/defp/providers/my-repo",
+      "request": {
+        "workloadIdentityPoolProvider": {
+          "oidc": {
+            "issuerUri": "https://token.actions.githubusercontent.com"
+          },
+          "attributeCondition": "",
+          "name": "projects/jomamasproject/locations/global/workloadIdentityPools/defp/providers/my-repo",
+          "displayName": "My GitHub repo Provider",
+          "attributeMapping": {
+            "google.subject": "assertion.sub",
+            "attribute.repository_owner": "assertion.repository_owner",
+            "attribute.actor": "assertion.actor",
+            "attribute.repository": "assertion.repository"
+          },
+          "disabled": false
+        },
+        "updateMask": "displayName,disabled,attributeMapping,attributeCondition,oidc.issuerUri,oidc.allowedAudiences,oidc.jwksJson",
+        "@type": "type.googleapis.com/google.iam.v1.UpdateWorkloadIdentityPoolProviderRequest"
+      }
+    },
+    "insertId": "1xxciarcg2b",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "method": "google.iam.v1.WorkloadIdentityPools.UpdateWorkloadIdentityPoolProvider",
+        "service": "iam.googleapis.com",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T23:13:23.679381756Z",
+    "severity": "ERROR",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T23:13:24.463275804Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {
+        "code": 3,
+        "message": "The member principalSet://iam.googleapis.com/projects/101176907631/locations/global/workloadIdentityPools/defp is of an unknown type. Please set a valid type prefix for the member."
+      },
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.add-iam-policy-binding invocation-id/814b864c47b04b5aa17ca24444c8f5cf environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T23:19:17.673782047Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+          "permission": "artifactregistry.repositories.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+      "request": {
+        "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest"
+      }
+    },
+    "insertId": "1l6nb05d1zo9",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "project_id": "jomamasproject",
+        "service": "artifactregistry.googleapis.com",
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy"
+      }
+    },
+    "timestamp": "2024-10-30T23:19:17.664088845Z",
+    "severity": "ERROR",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T23:19:18.666577628Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.add-iam-policy-binding invocation-id/8b358e43cbbc4e508c9a3f5be4c64a91 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T23:22:28.355179876Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+          "permission": "artifactregistry.repositories.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+      "request": {
+        "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest"
+      },
+      "response": {
+        "@type": "type.googleapis.com/google.iam.v1.Policy"
+      }
+    },
+    "insertId": "e6md5ed215n",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "artifactregistry.googleapis.com",
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-30T23:22:28.345032216Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T23:22:29.609260272Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {
+        "code": 3,
+        "message": "The member principalSet://iam.googleapis.com/defp/attribute.repository/jomamasrepo is of an unknown type. Please set a valid type prefix for the member."
+      },
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.add-iam-policy-binding invocation-id/1af971bf77fa43889d4094ef4561283d environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-30T23:24:40.559889785Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+          "permission": "artifactregistry.repositories.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+      "request": {
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest",
+        "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo"
+      }
+    },
+    "insertId": "dbqozad206m",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+        "project_id": "jomamasproject",
+        "service": "artifactregistry.googleapis.com"
+      }
+    },
+    "timestamp": "2024-10-30T23:24:40.551799031Z",
+    "severity": "ERROR",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-30T23:24:41.476993825Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {
+        "code": 3,
+        "message": "Exception calling IAM: The member principalSet://iam.googleapis.com/projects/101176907631/locations/global/workloadIdentityPools/defp is of an unknown type. Please set a valid type prefix for the member."
+      },
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.projects.add-iam-policy-binding invocation-id/5fd8729341234f179f1bf3319d4aa7d8 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe)",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "cloudresourcemanager.googleapis.com",
+      "methodName": "SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject",
+          "permission": "resourcemanager.projects.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {
+            "service": "cloudresourcemanager.googleapis.com",
+            "name": "projects/jomamasproject",
+            "type": "cloudresourcemanager.googleapis.com/Project"
+          },
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject",
+      "request": {
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest",
+        "resource": "jomamasproject",
+        "policy": {
+          "bindings": [
+            {
+              "role": "roles/artifactregistry.serviceAgent",
+              "members": [
+                "serviceAccount:service-101176907631@gcp-sa-artifactregistry.iam.gserviceaccount.com"
+              ]
+            },
+            {
+              "members": [
+                "serviceAccount:service-101176907631@compute-system.iam.gserviceaccount.com"
+              ],
+              "role": "roles/compute.serviceAgent"
+            },
+            {
+              "members": [
+                "serviceAccount:101176907631-compute@developer.gserviceaccount.com",
+                "serviceAccount:101176907631@cloudservices.gserviceaccount.com"
+              ],
+              "role": "roles/editor"
+            },
+            {
+              "role": "roles/owner",
+              "members": [
+                "user:Leowonderfulrocks@gmail.com"
+              ]
+            },
+            {
+              "members": [
+                "principalSet://iam.googleapis.com/projects/101176907631/locations/global/workloadIdentityPools/defp"
+              ],
+              "role": "roles/artifactregistry.admin"
+            }
+          ],
+          "etag": "BwYluPYvHYk="
+        }
+      }
+    },
+    "insertId": "y5ubcve10zui",
+    "resource": {
+      "type": "project",
+      "labels": {
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-31T00:03:57.538744Z",
+    "severity": "ERROR",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-31T00:03:58.722725736Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {
+        "code": 3,
+        "message": "The member principalSet://iam.googleapis.com/defp/attribute.repository/jomamasrepo is of an unknown type. Please set a valid type prefix for the member."
+      },
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.add-iam-policy-binding invocation-id/98e7918116cd488fab6dd840a8f4cfe1 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-31T00:04:49.366308822Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+          "permission": "artifactregistry.repositories.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+      "request": {
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest",
+        "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo"
+      }
+    },
+    "insertId": "uaaf30d1zv6",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "artifactregistry.googleapis.com",
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-31T00:04:49.358521761Z",
+    "severity": "ERROR",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-31T00:04:49.875348243Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.138.243.62",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.add-iam-policy-binding invocation-id/f527a52f1ec84f9fb16c9f6e1a97e760 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-31T00:11:41.162556465Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+          "permission": "artifactregistry.repositories.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+      "request": {
+        "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest"
+      },
+      "response": {
+        "@type": "type.googleapis.com/google.iam.v1.Policy"
+      }
+    },
+    "insertId": "uaqx7cd1z4x",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+        "project_id": "jomamasproject",
+        "service": "artifactregistry.googleapis.com"
+      }
+    },
+    "timestamp": "2024-10-31T00:11:41.154558873Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-31T00:11:42.737986576Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "96.236.195.186",
+        "callerSuppliedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36,gzip(gfe),gzip(gfe)",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "serviceusage.googleapis.com",
+      "methodName": "google.api.serviceusage.v1.ServiceUsage.EnableService",
+      "authorizationInfo": [
+        {
+          "resource": "projectnumbers/101176907631/services/cloudaicompanion.googleapis.com",
+          "permission": "serviceusage.services.enable",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        },
+        {
+          "resource": "services/cloudaicompanion.googleapis.com",
+          "permission": "servicemanagement.services.bind",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "DATA_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/services/cloudaicompanion.googleapis.com",
+      "request": {
+        "@type": "type.googleapis.com/google.api.serviceusage.v1.EnableServiceRequest",
+        "name": "projects/jomamasproject/services/cloudaicompanion.googleapis.com"
+      }
+    },
+    "insertId": "9gcz8xd6m9l",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "serviceusage.googleapis.com",
+        "method": "google.api.serviceusage.v1.ServiceUsage.EnableService",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-31T00:13:56.656967Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "operation": {
+      "id": "operations/acat.p2-101176907631-5d3739ff-59c0-4ed0-8125-bc4b524b047f",
+      "producer": "serviceusage.googleapis.com",
+      "first": true
+    },
+    "receiveTimestamp": "2024-10-31T00:13:57.631796549Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {},
+      "authenticationInfo": {
+        "principalEmail": "leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "96.236.195.186",
+        "callerSuppliedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36,gzip(gfe),gzip(gfe)",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "serviceusage.googleapis.com",
+      "methodName": "google.longrunning.Operations.GetOperation",
+      "authorizationInfo": [
+        {
+          "resource": "projectnumbers/101176907631",
+          "permission": "serviceusage.services.enable",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        },
+        {
+          "resource": "projectnumbers/101176907631/operations/-",
+          "permission": "serviceusage.operations.get",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "DATA_READ"
+        },
+        {
+          "resource": "projectnumbers/101176907631",
+          "permission": "serviceusage.services.get",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "DATA_READ"
+        }
+      ],
+      "resourceName": "projects/101176907631/operations/acat.p2-101176907631-5d3739ff-59c0-4ed0-8125-bc4b524b047f"
+    },
+    "insertId": "16qx9pcd1a96",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "method": "google.longrunning.Operations.GetOperation",
+        "project_id": "jomamasproject",
+        "service": "serviceusage.googleapis.com"
+      }
+    },
+    "timestamp": "2024-10-31T00:13:57.147794Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-31T00:13:57.996645516Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {},
+      "authenticationInfo": {
+        "principalEmail": "leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "96.236.195.186",
+        "callerSuppliedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36,gzip(gfe),gzip(gfe)"
+      },
+      "serviceName": "serviceusage.googleapis.com",
+      "methodName": "google.api.serviceusage.v1.ServiceUsage.EnableService",
+      "authorizationInfo": [
+        {
+          "resource": "projectnumbers/101176907631/services/cloudaicompanion.googleapis.com",
+          "permission": "serviceusage.services.enable",
+          "granted": true,
+          "permissionType": "ADMIN_WRITE"
+        },
+        {
+          "resource": "services/cloudaicompanion.googleapis.com",
+          "permission": "servicemanagement.services.bind",
+          "granted": true,
+          "permissionType": "DATA_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/services/cloudaicompanion.googleapis.com",
+      "request": {
+        "name": "projects/jomamasproject/services/cloudaicompanion.googleapis.com",
+        "@type": "type.googleapis.com/google.api.serviceusage.v1.EnableServiceRequest"
+      },
+      "response": {
+        "service": {
+          "name": "projects/101176907631/services/cloudaicompanion.googleapis.com",
+          "config": {
+            "name": "cloudaicompanion.googleapis.com",
+            "title": "Gemini for Google Cloud API"
+          },
+          "state": "ENABLED",
+          "parent": "projects/101176907631"
+        },
+        "@type": "type.googleapis.com/google.api.serviceusage.v1.EnableServiceResponse"
+      }
+    },
+    "insertId": "-l2uoiodf818",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "serviceusage.googleapis.com",
+        "project_id": "jomamasproject",
+        "method": "google.api.serviceusage.v1.ServiceUsage.EnableService"
+      }
+    },
+    "timestamp": "2024-10-31T00:13:59.310294845Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "operation": {
+      "id": "operations/acat.p2-101176907631-5d3739ff-59c0-4ed0-8125-bc4b524b047f",
+      "producer": "serviceusage.googleapis.com",
+      "last": true
+    },
+    "receiveTimestamp": "2024-10-31T00:13:59.310294845Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {},
+      "authenticationInfo": {
+        "principalEmail": "leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "96.236.195.186",
+        "callerSuppliedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36,gzip(gfe),gzip(gfe)",
+        "requestAttributes": {},
+        "destinationAttributes": {}
+      },
+      "serviceName": "serviceusage.googleapis.com",
+      "methodName": "google.longrunning.Operations.GetOperation",
+      "authorizationInfo": [
+        {
+          "resource": "projectnumbers/101176907631",
+          "permission": "serviceusage.services.enable",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        },
+        {
+          "resource": "projectnumbers/101176907631/operations/-",
+          "permission": "serviceusage.operations.get",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "DATA_READ"
+        },
+        {
+          "resource": "projectnumbers/101176907631",
+          "permission": "serviceusage.services.get",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "DATA_READ"
+        }
+      ],
+      "resourceName": "projects/101176907631/operations/acat.p2-101176907631-5d3739ff-59c0-4ed0-8125-bc4b524b047f"
+    },
+    "insertId": "4gej4od1a3l",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "method": "google.longrunning.Operations.GetOperation",
+        "service": "serviceusage.googleapis.com",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-31T00:14:00.397619Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-31T00:14:00.805742293Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "status": {
+        "code": 3,
+        "message": "The member principalSet://iam.googleapis.com/101176907631/attribute.repository/pitt-cs-1660/build-and-push-image-leowonderful is of an unknown type. Please set a valid type prefix for the member."
+      },
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.148.222.107",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.add-iam-policy-binding invocation-id/96d3b6f141434a8ba9ea8f09c160cad0 environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-31T08:50:04.676262342Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+          "permission": "artifactregistry.repositories.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+      "request": {
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest",
+        "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo"
+      }
+    },
+    "insertId": "1iy9xn0d23oy",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "artifactregistry.googleapis.com",
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-31T08:50:04.667369722Z",
+    "severity": "ERROR",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-31T08:50:05.640987888Z"
+  },
+  {
+    "protoPayload": {
+      "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+      "authenticationInfo": {
+        "principalEmail": "Leowonderfulrocks@gmail.com",
+        "principalSubject": "user:Leowonderfulrocks@gmail.com"
+      },
+      "requestMetadata": {
+        "callerIp": "34.148.222.107",
+        "callerSuppliedUserAgent": "google-cloud-sdk gcloud/498.0.0 command/gcloud.artifacts.repositories.add-iam-policy-binding invocation-id/46c3b7399d3644bfbb402c3a33c423dc environment/devshell environment-version/None client-os/LINUX client-os-ver/6.1.112 client-pltf-arch/x86_64 interactive/True from-script/False python/3.11.9 term/screen (Linux 6.1.112+),gzip(gfe),gzip(gfe)",
+        "requestAttributes": {
+          "time": "2024-10-31T08:53:58.655458440Z",
+          "auth": {}
+        },
+        "destinationAttributes": {}
+      },
+      "serviceName": "artifactregistry.googleapis.com",
+      "methodName": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+      "authorizationInfo": [
+        {
+          "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+          "permission": "artifactregistry.repositories.setIamPolicy",
+          "granted": true,
+          "resourceAttributes": {},
+          "permissionType": "ADMIN_WRITE"
+        }
+      ],
+      "resourceName": "projects/jomamasproject/locations/us/repositories/jomamasrepo",
+      "request": {
+        "@type": "type.googleapis.com/google.iam.v1.SetIamPolicyRequest",
+        "resource": "projects/jomamasproject/locations/us/repositories/jomamasrepo"
+      },
+      "response": {
+        "@type": "type.googleapis.com/google.iam.v1.Policy"
+      }
+    },
+    "insertId": "sm885pd265j",
+    "resource": {
+      "type": "audited_resource",
+      "labels": {
+        "service": "artifactregistry.googleapis.com",
+        "method": "google.devtools.artifactregistry.v1.ArtifactRegistry.SetIamPolicy",
+        "project_id": "jomamasproject"
+      }
+    },
+    "timestamp": "2024-10-31T08:53:58.644979657Z",
+    "severity": "NOTICE",
+    "logName": "projects/jomamasproject/logs/cloudaudit.googleapis.com%2Factivity",
+    "receiveTimestamp": "2024-10-31T08:53:59.904286569Z"
+  }
+]
